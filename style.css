@@ -1,0 +1,36 @@
+.page ul{
+    float: center; 
+}
+.page ul li{
+    display: inline;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.page ul li a{
+    color: red;
+    text-decoration: none;
+}
+.car{
+    background-color: black;
+    margin-right: 80%;
+}
+.car h1,p{
+    color: white;
+}
+h1,p{
+    text-align: center;
+}
+.car1{
+    background-color: rgb(236, 13, 13);
+    margin-right: 70%;
+}
+.car1 h1,p1{
+    color: white;
+}
+.car2{
+    background-color:rgb(62, 160, 62);
+    margin-right: 70%;
+}
+.car2 h1,p2{
+    color: white;
+}
